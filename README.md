@@ -9,17 +9,20 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/prakharaggarwal-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:aprakhar32@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">
-  <img src="https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakharaggarwal-dev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://github.com/Prakhar0206" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="mailto:aprakhar32@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/gmail.png" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/whatsapp.png" alt="WhatsApp" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+</p>
 
 </div>
 
@@ -41,17 +44,21 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express&perline=7" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs,express&perline=9" alt="Languages & Frameworks" />
 </p>
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mongodb,postgresql&perline=7" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql&perline=5" alt="Tools & Technologies" />
 </p>
 
-### Design & Frontend
+### Additional Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=4" alt="Design & Frontend" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
 </p>
 
 ---
@@ -178,21 +185,9 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to collaborate on a project, discuss tech trends, or just chat, feel free to reach out!
 
-<div align="center">
-
-<a href="mailto:aprakhar32@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prakharaggarwal-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">
-  <img src="https://img.shields.io/badge/Join_The_Elevare_Society-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
-</a>
-
-</div>
+- **LinkedIn:** [linkedin.com/in/prakharaggarwal-dev](https://www.linkedin.com/in/prakharaggarwal-dev)
+- **Gmail:** [aprakhar32@gmail.com](mailto:aprakhar32@gmail.com)
+- **The Elevare Society:** [Join Community](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
 
 ---
 
