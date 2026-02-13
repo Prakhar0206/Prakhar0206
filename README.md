@@ -80,13 +80,80 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Prakhar0206&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="" />
 
 </div>
+
+### 🎯 Top Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🥇 Oracle Cloud Infrastructure 2025
+**Certified AI Foundations Associate**
+- Issued: August 14, 2025
+- Valid Until: August 14, 2027
+- Credential ID: `321678592OCI25AICFA`
+
+</td>
+<td width="50%">
+
+#### 🏆 Aryabhatta National Competition
+**All India Rank 357**
+- National Mathematics Competition 2025
+- Score: 76.67%
+- Issued by: AICTSD
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 💼 JPMorgan Chase & Co.
+**Software Engineering Job Simulation**
+- Completed: January 2026
+- Skills: Kafka, H2, REST API
+- Verification: `Y6Py4iQCJWLDQ8bhb`
+
+</td>
+<td width="50%">
+
+#### 🛒 Walmart Global Tech
+**Advanced Software Engineering**
+- Completed: January 2026
+- Skills: Data Structures, Architecture, Database Design
+- Verification: `aa2XXZintaRmYfYmt`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎓 Scaler School of Technology
+**Young Innovator Internship Challenge 4**
+- 10-week intensive program
+- Focus: System Design & Development
+- Completed with distinction
+
+</td>
+<td width="50%">
+
+#### 🤖 LabLab AI Hackathons
+**Co-Creating with GPT-5**
+- Event: Aug 18-24, 2025
+- Built solution with Llama 3
+- Credential: `CMF2SSCIT001IJ6COSP3YERPG2`
+
+</td>
+</tr>
+</table>
 
 ---
 
