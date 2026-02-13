@@ -3,16 +3,8 @@
 # Hi there, I'm Prakhar Aggarwal 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+The+Elevare+Society;Building+Scalable+Technology;AI+%26+System+Design+Enthusiast;Empowering+1000%2B+Developers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+The+Elevare+Society;Building+Scalable+Technology;AI+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakharaggarwal-dev">LinkedIn</a> | 
-  <a href="mailto:aprakhar32@gmail.com">Gmail</a> | 
-  <a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">The Elevare Society</a>
-</p>
 
 </div>
 
