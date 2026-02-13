@@ -7,21 +7,11 @@
 </a>
 
 <br/>
-<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prakharaggarwal-dev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://github.com/Prakhar0206" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="mailto:aprakhar32@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/gmail.png" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/whatsapp.png" alt="WhatsApp" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/prakharaggarwal-dev">LinkedIn</a> | 
+  <a href="mailto:aprakhar32@gmail.com">Gmail</a> | 
+  <a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">The Elevare Society</a>
 </p>
 
 </div>
