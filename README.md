@@ -6,9 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Co-Founder+%40+The+Elevare+Society;Building+Scalable+Technology;AI+%26+System+Design+Enthusiast;Empowering+1000%2B+Developers" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar-aggarwal)
-[![Email](https://img.shields.io/badge/Email-aprakhar32%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprakhar32@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Join_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/prakharaggarwal-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:aprakhar32@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">
+  <img src="https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
+</a>
 
 </div>
 
@@ -49,21 +60,21 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Prakhar's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar0206&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar0206&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=c9d1d9&langs_count=8" alt="" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar0206&theme=react&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar0206&theme=react&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar0206&theme=react-dark&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar0206&theme=react-dark&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF" alt="" />
 
 </div>
 
@@ -73,7 +84,7 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prakhar0206&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Prakhar0206&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="" />
 
 </div>
 
@@ -102,10 +113,17 @@ I'm always excited to connect with fellow developers, entrepreneurs, and innovat
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aprakhar32%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprakhar32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar-aggarwal)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![WhatsApp Community](https://img.shields.io/badge/Join_The_Elevare_Society-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
+<a href="mailto:aprakhar32@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prakharaggarwal-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP">
+  <img src="https://img.shields.io/badge/Join_The_Elevare_Society-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
+</a>
 
 </div>
 
@@ -115,7 +133,9 @@ I'm always excited to connect with fellow developers, entrepreneurs, and innovat
 
 ### 💭 *"Building the future, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prakhar0206&color=20C20E&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Prakhar0206&color=20C20E&style=for-the-badge" alt="Profile Views" />
+
+<br/>
 
 ⭐️ From [Prakhar0206](https://github.com/Prakhar0206)
 
