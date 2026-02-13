@@ -15,7 +15,7 @@
 I'm a passionate developer, entrepreneur, and community leader dedicated to building scalable technology solutions and fostering innovation. With a strong foundation in **Artificial Intelligence**, **System Design**, and **Full-Stack Development**, I'm committed to creating impactful projects and empowering fellow developers.
 
 - 💼 **Co-Founder & Tech Head** at [The Elevare Society](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
-- 🌟 Leading a thriving community of **1,000+ developers** and innovators
+- 🌟 Leading a thriving community of **1,000+ members** and innovators
 - 🎯 Focus areas: AI/ML, Scalable System Architecture, and Strategic Tech Leadership
 - 🚀 Building solutions that make a difference
 - 🤝 Always open to collaboration and innovative projects
@@ -169,6 +169,7 @@ I'm always excited to connect with fellow developers, entrepreneurs, and innovat
 
 - **LinkedIn:** [linkedin.com/in/prakharaggarwal-dev](https://www.linkedin.com/in/prakharaggarwal-dev)
 - **Gmail:** [aprakhar32@gmail.com](mailto:aprakhar32@gmail.com)
+- **Discord:** [discord.com/user/1416859961694224507](https://discord.com/user/1416859961694224507)
 - **The Elevare Society:** [Join Community](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
 
 ---
