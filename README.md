@@ -49,9 +49,9 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar0206&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=c9d1d9&langs_count=8" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar0206&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=c9d1d9&langs_count=8" alt="" />
 
 </div>
 
