@@ -12,29 +12,21 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer, entrepreneur, and community leader dedicated to building scalable technology solutions and fostering innovation. With a strong foundation in **Artificial Intelligence**, **System Design**, and **Full-Stack Development**, I'm committed to creating impactful projects and empowering fellow developers.
+I'm a **Full-Stack Developer** and **Community Leader** building scalable AI-powered solutions. Co-Founder at [The Elevare Society](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP), leading **1,000+ members** and innovators.
 
-- 💼 **Co-Founder & Tech Head** at [The Elevare Society](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
-- 🌟 Leading a thriving community of **1,000+ members** and innovators
-- 🎯 Focus areas: AI/ML, Scalable System Architecture, and Strategic Tech Leadership
-- 🚀 Building solutions that make a difference
-- 🤝 Always open to collaboration and innovative projects
+- 🎯 **Focus:** AI/ML, System Design, Full-Stack Development
+- 🔭 **Building:** Scalable technology solutions at The Elevare Society
+- 🌱 **Learning:** Advanced System Architecture, AI Integration
+- 🤝 **Open to:** Collaboration on innovative projects and startups
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs,express&perline=9" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs,express,git,github,docker,vscode,mysql" alt="Tech Stack" />
 </p>
 
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql&perline=5" alt="Tools & Technologies" />
-</p>
-
-### Additional Skills
 <p align="left">
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   &nbsp;
@@ -45,100 +37,32 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar0206&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=c9d1d9&langs_count=8" alt="" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar0206&theme=react&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar0206&theme=react-dark&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF" alt="" />
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prakhar0206&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="" />
-
-</div>
-
-### 🎯 Top Certifications
+## 🏆 Top Achievements
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-#### 🥇 Oracle Cloud Infrastructure 2025
-**Certified AI Foundations Associate**
-- Issued: August 14, 2025
-- Valid Until: August 14, 2027
-- Credential ID: `321678592OCI25AICFA`
-
-</td>
-<td width="50%">
-
-#### 🏆 Aryabhatta National Competition
-**All India Rank 357**
-- National Mathematics Competition 2025
-- Score: 76.67%
-- Issued by: AICTSD
+**🥇 Oracle Cloud Infrastructure**
+<br/>AI Foundations Associate
+<br/>Valid: Aug 2025 - Aug 2027
+<br/>`321678592OCI25AICFA`
 
 </td>
-</tr>
+<td width="33%">
 
-<tr>
-<td width="50%">
-
-#### 💼 JPMorgan Chase & Co.
-**Software Engineering Job Simulation**
-- Completed: January 2026
-- Skills: Kafka, H2, REST API
-- Verification: `Y6Py4iQCJWLDQ8bhb`
+**🏅 All India Rank 357**
+<br/>Aryabhatta National Maths
+<br/>Score: 76.67%
+<br/>AICTSD
 
 </td>
-<td width="50%">
+<td width="33%">
 
-#### 🛒 Walmart Global Tech
-**Advanced Software Engineering**
-- Completed: January 2026
-- Skills: Data Structures, Architecture, Database Design
-- Verification: `aa2XXZintaRmYfYmt`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎓 Scaler School of Technology
-**Young Innovator Internship Challenge 4**
-- 10-week intensive program
-- Focus: System Design & Development
-- Completed with distinction
-
-</td>
-<td width="50%">
-
-#### 🤖 LabLab AI Hackathons
-**Co-Creating with GPT-5**
-- Event: Aug 18-24, 2025
-- Built solution with Llama 3
-- Credential: `CMF2SSCIT001IJ6COSP3YERPG2`
+**💼 Industry Simulations**
+<br/>JPMorgan Chase
+<br/>Walmart Global Tech
+<br/>Skyscanner
 
 </td>
 </tr>
@@ -146,18 +70,19 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 ---
 
-## 💡 What I'm Currently Working On
+## 📊 GitHub Stats
 
-- 🔭 Building innovative solutions at **The Elevare Society**
-- 🌱 Deepening expertise in **Advanced System Design** and **AI/ML**
-- 👯 Looking to collaborate on **open-source projects** and **startup ventures**
-- 💬 Ask me about **Full-Stack Development**, **AI**, **Community Building**
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar0206&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar0206&theme=react&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to collaborate on a project, discuss tech trends, or just chat, feel free to reach out!
+## 🤝 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/prakharaggarwal-dev](https://www.linkedin.com/in/prakharaggarwal-dev)
 - **Gmail:** [aprakhar303@gmail.com](mailto:aprakhar303@gmail.com)
@@ -177,3 +102,50 @@ I'm always excited to connect with fellow developers, entrepreneurs, and innovat
 ⭐️ From [Prakhar0206](https://github.com/Prakhar0206)
 
 </div>
+
+---
+
+<details>
+<summary><b>📜 View All Certifications</b></summary>
+
+<br/>
+
+### Complete Certification Portfolio
+
+#### 🥇 Oracle Cloud Infrastructure 2025
+**Certified AI Foundations Associate**
+- Issued: August 14, 2025
+- Valid Until: August 14, 2027
+- Credential ID: `321678592OCI25AICFA`
+
+#### 🏆 Aryabhatta National Competition
+**All India Rank 357**
+- National Mathematics Competition 2025
+- Score: 76.67%
+- Issued by: AICTSD
+
+#### 💼 JPMorgan Chase & Co.
+**Software Engineering Job Simulation**
+- Completed: January 2026
+- Skills: Kafka, H2, REST API
+- Verification: `Y6Py4iQCJWLDQ8bhb`
+
+#### 🛒 Walmart Global Tech
+**Advanced Software Engineering**
+- Completed: January 2026
+- Skills: Data Structures, Architecture, Database Design
+- Verification: `aa2XXZintaRmYfYmt`
+
+#### 🎓 Scaler School of Technology
+**Young Innovator Internship Challenge 4**
+- 10-week intensive program
+- Focus: System Design & Development
+- Completed with distinction
+
+#### 🤖 LabLab AI Hackathons
+**Co-Creating with GPT-5**
+- Event: Aug 18-24, 2025
+- Built solution with Llama 3
+- Credential: `CMF2SSCIT001IJ6COSP3YERPG2`
+
+</details>
