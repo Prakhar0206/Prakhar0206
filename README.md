@@ -146,14 +146,6 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 
 ---
 
-## 🌟 Featured Projects
-
-> 🚧 Check out my pinned repositories below for my latest work!
-
-<!-- You can manually add your best projects here -->
-
----
-
 ## 💡 What I'm Currently Working On
 
 - 🔭 Building innovative solutions at **The Elevare Society**
@@ -168,7 +160,7 @@ I'm a passionate developer, entrepreneur, and community leader dedicated to buil
 I'm always excited to connect with fellow developers, entrepreneurs, and innovators. Whether you want to collaborate on a project, discuss tech trends, or just chat, feel free to reach out!
 
 - **LinkedIn:** [linkedin.com/in/prakharaggarwal-dev](https://www.linkedin.com/in/prakharaggarwal-dev)
-- **Gmail:** [aprakhar32@gmail.com](mailto:aprakhar32@gmail.com)
+- **Gmail:** [aprakhar303@gmail.com](mailto:aprakhar303@gmail.com)
 - **Discord:** [discord.com/user/1416859961694224507](https://discord.com/user/1416859961694224507)
 - **The Elevare Society:** [Join Community](https://chat.whatsapp.com/BOshKPYp8O23jWm5SegNMP)
 
